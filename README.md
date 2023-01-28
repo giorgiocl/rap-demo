@@ -28,6 +28,7 @@ If your installation and setup was successful, you should see a page similar to 
 Do you have any issues setting up this application? Please, reach out the trainers.
 
 ---
+
 # Deployment to AWS
 
 **During the training session** we will share with you some additional information regarding your temporary AWS account. To make it possible to perform a deployment to that cloud service.
