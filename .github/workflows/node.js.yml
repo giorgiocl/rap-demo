@@ -1,8 +1,7 @@
-name: Node.js CI
+name: Run tests
 
 on:
   push:
-    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
