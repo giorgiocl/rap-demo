@@ -26,7 +26,7 @@ export const products = [
   },
   {
     id: 4,
-    name: 'Telefono product',
+    name: 'Iphone 20',
     price: 299,
     description: ''
   }
