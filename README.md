@@ -35,3 +35,4 @@ Do you have any issues setting up this application? Please, reach out the traine
 You have to create two secrets ```AWS_ACCESS_KEY_ID``` and ```AWS_SECRET_ACCESS_KEY``` in the ```Settings / Secrets and variables / Actions / Secrets``` section. As shown in the following image.
 
 ![Repository settings](/images/repo-settings.png)
+
