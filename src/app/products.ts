@@ -26,7 +26,7 @@ export const products = [
   },
   {
     id: 4,
-    name: 'New product',
+    name: 'Telefono product',
     price: 299,
     description: ''
   }
